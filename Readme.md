@@ -55,4 +55,4 @@ Prévoir deux zones : une zone chaude, proche du foyer, et une zone douce destin
 
 ## Licence
 
-Ce document est sous licence MIT.
+Le contenu de ce dépôt est distribué sous [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0). Il peut être partagé et adapté, y compris commercialement, avec attribution de la source.
